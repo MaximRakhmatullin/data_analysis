@@ -1,0 +1,52 @@
+{
+  "tv_shows": [
+    {
+      "title": "Chronicles of the Galaxy",
+      "genre": "Adventure",
+      "seasons": 5,
+      "rating": 8.0
+    },
+    {
+      "title": "Mystery Island",
+      "genre": "Fantasy",
+      "seasons": 3,
+      "rating": 9.0
+    },
+    {
+      "title": "Epic Quest",
+      "genre": "Fantasy",
+      "seasons": 4,
+      "rating": 7.0
+    },
+    {
+      "title": "Crime Files",
+      "genre": "Crime Drama",
+      "seasons": 6,
+      "rating": 5.0
+    },
+    {
+      "title": "Medical Miracles",
+      "genre": "Medical Drama",
+      "seasons": 2,
+      "rating": 8.0
+    },
+    {
+      "title": "Time Travelers",
+      "genre": "Adventure",
+      "seasons": 4,
+      "rating": 8.0
+    },
+    {
+      "title": "Comedy Central",
+      "genre": "Comedy",
+      "seasons": 7,
+      "rating": 9.0
+    },
+    {
+      "title": "Fallout",
+      "genre": "Action",
+      "seasons": 1,
+      "rating": 8.5
+    }
+  ]
+}
